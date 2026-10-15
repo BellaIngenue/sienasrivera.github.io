@@ -23,7 +23,7 @@ repository               : "bellaingenue/sienasrivera.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/images/squareprofile.jpg"
+  avatar           : "/assets/images/squareprofile.jpg"
   name             : "Siena Rivera"
   pronouns         : "she/they"  
   bio              : "Cognitive Science Graduate"
