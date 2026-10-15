@@ -23,5 +23,5 @@ Site Map:
 ### About the Portfolio
 Siena's Portfolio &copy; 2026-2026 by [Siena Rivera](https://sienasrivera.website)
 
-#### License
+### License
 Siena's Portfolio is distributed by an [MIT license](https://github.com/bellaingenue/bellaingenue.github.io/LICENSE)

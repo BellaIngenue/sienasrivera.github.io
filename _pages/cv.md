@@ -19,7 +19,7 @@ Education
 * Post B.S. Certification in Biostatistics, UC San Diego, 2026 (expected)
 * B.S. in Cognitive Science, UC San Diego, 2024
  * Awards: Provost Honors
- * Graduating GPA: 3.8 | Department GPA: 3.83
+ * Graduating GPA: 3.8 
  * Relevant Coursework: PSYC 124, Clinical Assessment/Treatment; COGS 108, Data Science in Practice, COGS 107B, Systems Neuroscience; COGS 172, Brain Disorder and Cognition; COGS 116, Developmental Cog Neuroscience
 * A.A. in Mathematics Studies, San Diego Miramar College, 2021
  * Awards: Dean’s List and Graduated with High Honors 
@@ -73,14 +73,14 @@ Research Experience
 ======
 **Sponsors / Indicators / Role**
 * Medical Dermatology:
- * Celldex: Chronic Spontaneous Urticaria    |    Primary Research Assistant
- * RMS: Mucocutaneous Lesions    |    Primary Research Assistant
- * Solta: Female Pattern Hair Loss (Androgenic Alopecia)    |    Back-Up Research Assistant
- * TigerMed: Port Wine Stains    |    Back-Up Research Assistant
+ * Celldex: Chronic Spontaneous Urticaria    Primary Research Assistant
+ * RMS: Mucocutaneous Lesions    Primary Research Assistant
+ * Solta: Female Pattern Hair Loss (Androgenic Alopecia)    Back-Up Research Assistant
+ * TigerMed: Port Wine Stains    Back-Up Research Assistant
 * Cosmetic Dermatology:
- * Galderma: Adipose Tissue    |    Primary Research Assistant
- * Merz: Chest Imaging    |    Primary Research Assistant
- * Nordberg: Nasolabial Folds    |    Back-Up Research Assistant
+ * Galderma: Adipose Tissue    Primary Research Assistant
+ * Merz: Chest Imaging    Primary Research Assistant
+ * Nordberg: Nasolabial Folds    Back-Up Research Assistant
 
   
 Portfolio
@@ -95,25 +95,24 @@ Applied statistical and data science techniques to uncover significant trends an
 * Github Website (2024): A Github Website that utilizes Jekyll, Ruby Gems, HTML, CSS and Javascript to make an interactive website that hosts Projects, Games, and other Research Projects that have been coded and produced since 2016
 * BlueSkies Minecraft (2020): Created and managed a custom Minecraft server with an active player base from around the world. Raised over $1000 in donations from players in order to support server operations. Over 400+ new players annually joined which allowed others to make connections seamlessly
 **Professional Certifications**:
-* Good Clinical Practice (GCP): Completed November 2024 | Expires November 2027 
-* Mayo Clinic Issued IATA: Completed February  2025  |  Expires February 2027 
+* Good Clinical Practice (GCP): Completed November 2024   Expires November 2027 
+* Mayo Clinic Issued IATA: Completed February  2025   Expires February 2027 
 
 
+Projects
+======
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Experiences
+======
+  <ul>{% for post in site.experiences reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
