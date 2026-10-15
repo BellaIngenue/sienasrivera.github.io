@@ -10,8 +10,8 @@ Welcome to my website! Here you can find my Resume/CV, Personal Projects, Profes
 
 Site Map:
 ======
-- CV: Curriculum Vitae and Resume
-- PERSONAL PROJECTS: Information on my Personal Projects such as BlueSkies Minecraft Server (A Minecraft server I ran by myself) as well as custom Java-based plugins and other projects I have made for fun. Including access to the other Github site that hosts more FUN and PERSONAL Projects!
-- PROFESSIONAL PORTFOLIO: Professional Work, Part-Time Work, and Volunteering experiences listed from before College to now
-- BLOG POSTS: Updated with NEW Information such as my Weekly LinkedIn Newsletter: Brainwaves of Hope
-- FUTURE PUBLICATIONS: Future Publications section for when more Research is done!!
+- **CV**: Curriculum Vitae and Resume
+- **PERSONAL PROJECTS**: Information on my Personal Projects such as BlueSkies Minecraft Server (A Minecraft server I ran by myself) as well as custom Java-based plugins and other projects I have made for fun. Including access to the other Github site that hosts more FUN and PERSONAL Projects!
+- **PROFESSIONAL PORTFOLIO**: Professional Work, Part-Time Work, and Volunteering experiences listed from before College to now
+- **BLOG POSTS**: Updated with NEW Information such as my Weekly LinkedIn Newsletter: Brainwaves of Hope
+- **FUTURE PUBLICATIONS**: Future Publications section for when more Research is done!!

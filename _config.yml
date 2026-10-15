@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Siena's Academic Website'"
+title                    : "Siena's Academic Website"
 title_separator          : "-"
 name                     : &name "Siena Rivera"
 description              : &description "Siena Rivera's Academic Portofolio'"   # Update this with a general description of your site, this is the default if not overridden by a page
