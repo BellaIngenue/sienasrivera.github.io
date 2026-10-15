@@ -13,7 +13,7 @@ title                    : "Siena's Academic Website'"
 title_separator          : "-"
 name                     : &name "Siena Rivera"
 description              : &description "Siena Rivera's Academic Portofolio'"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sienasrivera.website/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://www.sienasrivera.website # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bellaingenue/sienasrivera.github.io"
@@ -29,7 +29,7 @@ author:
   bio              : "Cognitive Science Graduate"
   location         : "San Diego"
   employer         : "UC San Diego"
-  uri              : https://sienasrivera.website/
+  uri              : https://www.sienasrivera.website/
   email            : "sienasrivera@gmail.com" 
 
   # Academic websites
