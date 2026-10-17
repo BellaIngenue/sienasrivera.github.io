@@ -22,6 +22,19 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jupyter nbconvert
+
+      - name: Run talkmap
+        run: jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
