@@ -18,13 +18,13 @@ Education
 ======
 * Post B.S. Certification in Biostatistics, UC San Diego, 2026 (expected)
 * B.S. in Cognitive Science, UC San Diego, 2024
- * Awards: Provost Honors
- * Graduating GPA: 3.8 
- * Relevant Coursework: PSYC 124, Clinical Assessment/Treatment; COGS 108, Data Science in Practice, COGS 107B, Systems Neuroscience; COGS 172, Brain Disorder and Cognition; COGS 116, Developmental Cog Neuroscience
+  * Awards: Provost Honors
+  * Graduating GPA: 3.8 
+  * Relevant Coursework: PSYC 124, Clinical Assessment/Treatment; COGS 108, Data Science in Practice, COGS 107B, Systems Neuroscience; COGS 172, Brain Disorder and Cognition; COGS 116, Developmental Cog Neuroscience
 * A.A. in Mathematics Studies, San Diego Miramar College, 2021
- * Awards: Dean’s List and Graduated with High Honors 
- * Graduating GPA: 3.75
- * Relevant Coursework: MATH 245, Discrete Mathematics; MATH 255, Differential; MATH 254, Linear Algebra; CISC 190, Java Programming; CISC 179, Python Programming; PSYC 255, Psych Research
+  * Awards: Dean’s List and Graduated with High Honors 
+  * Graduating GPA: 3.75
+  * Relevant Coursework: MATH 245, Discrete Mathematics; MATH 255, Differential; MATH 254, Linear Algebra; CISC 190, Java Programming; CISC 179, Python Programming; PSYC 255, Psych Research
 
 Work experience
 ======
