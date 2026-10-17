@@ -52,48 +52,50 @@ Work experience
 Skills
 ======
 * **Clinical Data & Technical Analysis:**
- * Programming Languages: Java, MATLAB, Python, R, Microsoft FLOW Automate	
- * Data Science: Python (Pandas, NumPy), R (tidyverse), Data Visualization (Seaborn, Power BI), Excel
+  * Programming Languages: Java, MATLAB, Python, R, Microsoft FLOW Automate	
+  * Data Science: Python (Pandas, NumPy), R (tidyverse), Data Visualization (Seaborn, Power BI), Excel
 * **Clinical Research & Lab Work:**
- * Research: Academic Writing, APA, GCP Certified, IATA Certified, Source Creation, Patient Outreach, Clinical Trials
- * Lab Machinery: Accessioning, qPCR Extraction, ITB Genetic Transportation, Centrifuges, Hamilton, Troubleshooting
- * Clinical familiarity: ICD-11 Coding, DSM-5-TR Diagnostic Frameworks, Dermatologic Conditions, Medical Terminology
+  * Research: Academic Writing, APA, GCP Certified, IATA Certified, Source Creation, Patient Outreach, Clinical Trials
+  * Lab Machinery: Accessioning, qPCR Extraction, ITB Genetic Transportation, Centrifuges, Hamilton, Troubleshooting
+  * Clinical familiarity: ICD-11 Coding, DSM-5-TR Diagnostic Frameworks, Dermatologic Conditions, Medical Terminology
 
   
 Service and Leadership
 ======
 * 2023 - 2024: Operations Coordinator, UC San Diego's MIAC Club
- * Elected as Operations Coordinator at UCSD’s MIAC (Multi-Identity Art Collective)
- * Regularly received and responded to emails, and set up a Discord Webhook using GoogleScripts to connect Discord API and the MIAC Gmail together. Automatically sending all emails from Gmail to the Discord Server
- * Worked with other board members to set up weekly GBMs (The Club Meetings) and created PPTs and other presentations to keep members satisfied and happy
- * Teamed up with the LGBT-RC to create a safe, secure, and thoughtful place for all members and board to mingle
+  * Elected as Operations Coordinator at UCSD’s MIAC (Multi-Identity Art Collective)
+  * Regularly received and responded to emails, and set up a Discord Webhook using GoogleScripts to connect Discord API and the MIAC Gmail together. Automatically sending all emails from Gmail to the Discord Server
+  * Worked with other board members to set up weekly GBMs (The Club Meetings) and created PPTs and other presentations to keep members satisfied and happy
+  * Teamed up with the LGBT-RC to create a safe, secure, and thoughtful place for all members and board to mingle
 
   
 Research Experience
 ======
 **Sponsors / Indicators / Role**
 * Medical Dermatology:
- * Celldex: Chronic Spontaneous Urticaria    Primary Research Assistant
- * RMS: Mucocutaneous Lesions    Primary Research Assistant
- * Solta: Female Pattern Hair Loss (Androgenic Alopecia)    Back-Up Research Assistant
- * TigerMed: Port Wine Stains    Back-Up Research Assistant
+  * Celldex: Chronic Spontaneous Urticaria    Primary Research Assistant
+  * RMS: Mucocutaneous Lesions    Primary Research Assistant
+  * Solta: Female Pattern Hair Loss (Androgenic Alopecia)    Back-Up Research Assistant
+  * TigerMed: Port Wine Stains    Back-Up Research Assistant
 * Cosmetic Dermatology:
- * Galderma: Adipose Tissue    Primary Research Assistant
- * Merz: Chest Imaging    Primary Research Assistant
- * Nordberg: Nasolabial Folds    Back-Up Research Assistant
+  * Galderma: Adipose Tissue    Primary Research Assistant
+  * Merz: Chest Imaging    Primary Research Assistant
+  * Nordberg: Nasolabial Folds    Back-Up Research Assistant
 
   
 Portfolio
 ======
 **School Projects**:
 * COGS108 Data Science Project (2022): Conducted an in-depth analysis of the correlation between the Air Quality Index (AQI) and changes in driving patterns during the COVID-19 pandemic, leveraging Python, Pandas, NumPy, and Jupyter Notebooks
- * Collected and meticulously cleaned large datasets on AQI and traffic patterns from multiple sources, ensuring accuracy and consistency over a 3-month period
-Applied statistical and data science techniques to uncover significant trends and insights, demonstrating the impact of reduced vehicular traffic on air quality
+  * Collected and meticulously cleaned large datasets on AQI and traffic patterns from multiple sources, ensuring accuracy and consistency over a 3-month period
+  * Applied statistical and data science techniques to uncover significant trends and insights, demonstrating the impact of reduced vehicular traffic on air quality
 * PSYC255, Psych Research Project (2019): This course hosted a project through which we created an introductory research paper based on an exploratory survey in a selected topic a group chose for the course. Our group chose to observe and ask participants about their connection between Sleep and Technology Consumption at night 
+
 **Personal Projects**:
 * Brainwaves of Hope (2025): LinkedIn Newsletter that looks deeply into topics of Psychology and analyzes Research Studies in a bias-free and ethical manner. Focuses on Positive Psychology and how to understand, and further empathize, with the struggles of others with Mental Health conditions
 * Github Website (2024): A Github Website that utilizes Jekyll, Ruby Gems, HTML, CSS and Javascript to make an interactive website that hosts Projects, Games, and other Research Projects that have been coded and produced since 2016
 * BlueSkies Minecraft (2020): Created and managed a custom Minecraft server with an active player base from around the world. Raised over $1000 in donations from players in order to support server operations. Over 400+ new players annually joined which allowed others to make connections seamlessly
+
 **Professional Certifications**:
 * Good Clinical Practice (GCP): Completed November 2024   Expires November 2027 
 * Mayo Clinic Issued IATA: Completed February  2025   Expires February 2027 
