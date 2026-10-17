@@ -1,5 +1,5 @@
 ---
-title: "Experiences"
+title: "Experiences during UCSD"
 collection: experiences
 type: "During UCSD"
 permalink: /experiences/UCSD

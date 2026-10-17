@@ -1,5 +1,5 @@
 ---
-title: "Experiences"
+title: "Experiences During College"
 collection: experiences
 type: "During College"
 permalink: /experiences/College
