@@ -48,8 +48,13 @@ Although we rejected our initial hypothesis that there was a positive relationsh
 **DATA PHOTOS**
 
 ![AQI](/images/data/aqi.png)
+
 ![AQI HeatMap](/images/data/aqi_map.png)
+
 ![Max AQI](/images/data/max_aqi.png)
+
 ![Traffic](/images/data/traffic.png)
+
 ![Traffic HeatMap](/images/data/traffic_map.png)
+
 ![ScatterMatrix](/images/data/scattermatrix.png)
