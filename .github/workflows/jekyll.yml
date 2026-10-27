@@ -31,7 +31,7 @@ jobs:
       - name: Setup Ruby, JRuby and TruffleRuby
         uses: ruby/setup-ruby@v1.328.0
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.2'
           bundler-cache: true
           cache-version: 0
       - name: Configure GitHub Pages
