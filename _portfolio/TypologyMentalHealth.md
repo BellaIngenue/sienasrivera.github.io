@@ -1,6 +1,6 @@
 ---
 title: "Typology & Mental Health"
-excerpt: "Connections between Myers Briggs Type Indicator (MBTI) and Mental Health Diagnoses<br/><img src='/images/brain.png'>"
+excerpt: "Connections between Myers Briggs Type Indicator (MBTI) and Mental Health Diagnoses<br/><img src='/images/brain.jpeg'>"
 collection: portfolio
 ---
 
@@ -13,8 +13,8 @@ Throughout the past decade, Myers-Briggs Type Indicator (MBTI) has been notoriou
 
 ## Pictures of Data Analytics
 
-![MBTI Types](../images/data/MBTITypes.png)
+![MBTI Types](/images/data/MBTITypes.png)
 
-![Schizophrenia Map](../images/data/SchizophreniaCounts.png)
+![Schizophrenia Map](/images/data/SchizophreniaCounts.png)
 
-![FDR Analytics](../images/data/FDR.png)
+![FDR Analytics](/images/data/FDR.png)
